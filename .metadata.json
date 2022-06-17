@@ -1,0 +1,10 @@
+[
+  {
+    "package": "EpiSignalDetection",
+    "oncran": true
+  },
+  {
+    "package": "epitweetr",
+    "oncran": true
+  }
+]
