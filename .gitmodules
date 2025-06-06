@@ -5,7 +5,3 @@
 [submodule "EpiSignalDetection"]
 	path = EpiSignalDetection
 	url = https://github.com/eu-ecdc/episignaldetection
-[submodule "epitweetr"]
-	path = epitweetr
-	url = https://github.com/eu-ecdc/epitweetr
-	subdir = epitweetr
