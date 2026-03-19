@@ -5,3 +5,7 @@
 [submodule "EpiSignalDetection"]
 	path = EpiSignalDetection
 	url = https://github.com/eu-ecdc/episignaldetection
+[submodule "episomer"]
+	path = episomer
+	url = https://github.com/eu-ecdc/episomer
+	subdir = episomer
